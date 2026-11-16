@@ -1,0 +1,39 @@
+{
+  "logical": [
+    {
+      "biz_key": "[\"SHARED\"]",
+      "fields": {
+        "amount": 1,
+        "bk": "SHARED",
+        "region": "east"
+      },
+      "row_id": "X",
+      "target": "east"
+    }
+  ],
+  "partitions": {
+    "P1": {
+      "last_digest": "35effc9059c3300951216500ae3bcbc6f26fad1ef3d60a6681bab65893c9b407",
+      "last_position": 1,
+      "start_position": 1
+    },
+    "P2": {
+      "last_digest": null,
+      "last_position": null,
+      "start_position": 1
+    }
+  },
+  "route_version": 1,
+  "targets": {
+    "east": [
+      {
+        "amt": 1,
+        "bk_e": "SHARED",
+        "region": "east",
+        "row_id": "X"
+      }
+    ],
+    "quarantine": [],
+    "west": []
+  }
+}

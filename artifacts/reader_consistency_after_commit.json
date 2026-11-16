@@ -1,0 +1,929 @@
+{
+  "logical": [
+    {
+      "biz_key": "[\"N0\"]",
+      "fields": {
+        "amount": 0,
+        "bk": "N0",
+        "region": "west"
+      },
+      "row_id": "n00",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N1\"]",
+      "fields": {
+        "amount": 1,
+        "bk": "N1",
+        "region": "west"
+      },
+      "row_id": "n01",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N2\"]",
+      "fields": {
+        "amount": 2,
+        "bk": "N2",
+        "region": "west"
+      },
+      "row_id": "n02",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N3\"]",
+      "fields": {
+        "amount": 3,
+        "bk": "N3",
+        "region": "west"
+      },
+      "row_id": "n03",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N4\"]",
+      "fields": {
+        "amount": 4,
+        "bk": "N4",
+        "region": "west"
+      },
+      "row_id": "n04",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N5\"]",
+      "fields": {
+        "amount": 5,
+        "bk": "N5",
+        "region": "west"
+      },
+      "row_id": "n05",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N6\"]",
+      "fields": {
+        "amount": 6,
+        "bk": "N6",
+        "region": "west"
+      },
+      "row_id": "n06",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N7\"]",
+      "fields": {
+        "amount": 7,
+        "bk": "N7",
+        "region": "west"
+      },
+      "row_id": "n07",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N8\"]",
+      "fields": {
+        "amount": 8,
+        "bk": "N8",
+        "region": "west"
+      },
+      "row_id": "n08",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N9\"]",
+      "fields": {
+        "amount": 9,
+        "bk": "N9",
+        "region": "west"
+      },
+      "row_id": "n09",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N10\"]",
+      "fields": {
+        "amount": 10,
+        "bk": "N10",
+        "region": "west"
+      },
+      "row_id": "n10",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N11\"]",
+      "fields": {
+        "amount": 11,
+        "bk": "N11",
+        "region": "west"
+      },
+      "row_id": "n11",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N12\"]",
+      "fields": {
+        "amount": 12,
+        "bk": "N12",
+        "region": "west"
+      },
+      "row_id": "n12",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N13\"]",
+      "fields": {
+        "amount": 13,
+        "bk": "N13",
+        "region": "west"
+      },
+      "row_id": "n13",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N14\"]",
+      "fields": {
+        "amount": 14,
+        "bk": "N14",
+        "region": "west"
+      },
+      "row_id": "n14",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N15\"]",
+      "fields": {
+        "amount": 15,
+        "bk": "N15",
+        "region": "west"
+      },
+      "row_id": "n15",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N16\"]",
+      "fields": {
+        "amount": 16,
+        "bk": "N16",
+        "region": "west"
+      },
+      "row_id": "n16",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N17\"]",
+      "fields": {
+        "amount": 17,
+        "bk": "N17",
+        "region": "west"
+      },
+      "row_id": "n17",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N18\"]",
+      "fields": {
+        "amount": 18,
+        "bk": "N18",
+        "region": "west"
+      },
+      "row_id": "n18",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N19\"]",
+      "fields": {
+        "amount": 19,
+        "bk": "N19",
+        "region": "west"
+      },
+      "row_id": "n19",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N20\"]",
+      "fields": {
+        "amount": 20,
+        "bk": "N20",
+        "region": "west"
+      },
+      "row_id": "n20",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N21\"]",
+      "fields": {
+        "amount": 21,
+        "bk": "N21",
+        "region": "west"
+      },
+      "row_id": "n21",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N22\"]",
+      "fields": {
+        "amount": 22,
+        "bk": "N22",
+        "region": "west"
+      },
+      "row_id": "n22",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N23\"]",
+      "fields": {
+        "amount": 23,
+        "bk": "N23",
+        "region": "west"
+      },
+      "row_id": "n23",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N24\"]",
+      "fields": {
+        "amount": 24,
+        "bk": "N24",
+        "region": "west"
+      },
+      "row_id": "n24",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N25\"]",
+      "fields": {
+        "amount": 25,
+        "bk": "N25",
+        "region": "west"
+      },
+      "row_id": "n25",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N26\"]",
+      "fields": {
+        "amount": 26,
+        "bk": "N26",
+        "region": "west"
+      },
+      "row_id": "n26",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N27\"]",
+      "fields": {
+        "amount": 27,
+        "bk": "N27",
+        "region": "west"
+      },
+      "row_id": "n27",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N28\"]",
+      "fields": {
+        "amount": 28,
+        "bk": "N28",
+        "region": "west"
+      },
+      "row_id": "n28",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N29\"]",
+      "fields": {
+        "amount": 29,
+        "bk": "N29",
+        "region": "west"
+      },
+      "row_id": "n29",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N30\"]",
+      "fields": {
+        "amount": 30,
+        "bk": "N30",
+        "region": "west"
+      },
+      "row_id": "n30",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N31\"]",
+      "fields": {
+        "amount": 31,
+        "bk": "N31",
+        "region": "west"
+      },
+      "row_id": "n31",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N32\"]",
+      "fields": {
+        "amount": 32,
+        "bk": "N32",
+        "region": "west"
+      },
+      "row_id": "n32",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N33\"]",
+      "fields": {
+        "amount": 33,
+        "bk": "N33",
+        "region": "west"
+      },
+      "row_id": "n33",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N34\"]",
+      "fields": {
+        "amount": 34,
+        "bk": "N34",
+        "region": "west"
+      },
+      "row_id": "n34",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N35\"]",
+      "fields": {
+        "amount": 35,
+        "bk": "N35",
+        "region": "west"
+      },
+      "row_id": "n35",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N36\"]",
+      "fields": {
+        "amount": 36,
+        "bk": "N36",
+        "region": "west"
+      },
+      "row_id": "n36",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N37\"]",
+      "fields": {
+        "amount": 37,
+        "bk": "N37",
+        "region": "west"
+      },
+      "row_id": "n37",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N38\"]",
+      "fields": {
+        "amount": 38,
+        "bk": "N38",
+        "region": "west"
+      },
+      "row_id": "n38",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N39\"]",
+      "fields": {
+        "amount": 39,
+        "bk": "N39",
+        "region": "west"
+      },
+      "row_id": "n39",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N40\"]",
+      "fields": {
+        "amount": 40,
+        "bk": "N40",
+        "region": "west"
+      },
+      "row_id": "n40",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N41\"]",
+      "fields": {
+        "amount": 41,
+        "bk": "N41",
+        "region": "west"
+      },
+      "row_id": "n41",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N42\"]",
+      "fields": {
+        "amount": 42,
+        "bk": "N42",
+        "region": "west"
+      },
+      "row_id": "n42",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N43\"]",
+      "fields": {
+        "amount": 43,
+        "bk": "N43",
+        "region": "west"
+      },
+      "row_id": "n43",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N44\"]",
+      "fields": {
+        "amount": 44,
+        "bk": "N44",
+        "region": "west"
+      },
+      "row_id": "n44",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N45\"]",
+      "fields": {
+        "amount": 45,
+        "bk": "N45",
+        "region": "west"
+      },
+      "row_id": "n45",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N46\"]",
+      "fields": {
+        "amount": 46,
+        "bk": "N46",
+        "region": "west"
+      },
+      "row_id": "n46",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N47\"]",
+      "fields": {
+        "amount": 47,
+        "bk": "N47",
+        "region": "west"
+      },
+      "row_id": "n47",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N48\"]",
+      "fields": {
+        "amount": 48,
+        "bk": "N48",
+        "region": "west"
+      },
+      "row_id": "n48",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"N49\"]",
+      "fields": {
+        "amount": 49,
+        "bk": "N49",
+        "region": "west"
+      },
+      "row_id": "n49",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"K0\"]",
+      "fields": {
+        "amount": 0,
+        "bk": "K0",
+        "region": "east"
+      },
+      "row_id": "r00",
+      "target": "east"
+    },
+    {
+      "biz_key": "[\"K1\"]",
+      "fields": {
+        "amount": 1,
+        "bk": "K1",
+        "region": "east"
+      },
+      "row_id": "r01",
+      "target": "east"
+    },
+    {
+      "biz_key": "[\"K2\"]",
+      "fields": {
+        "amount": 2,
+        "bk": "K2",
+        "region": "east"
+      },
+      "row_id": "r02",
+      "target": "east"
+    },
+    {
+      "biz_key": "[\"K3\"]",
+      "fields": {
+        "amount": 3,
+        "bk": "K3",
+        "region": "east"
+      },
+      "row_id": "r03",
+      "target": "east"
+    },
+    {
+      "biz_key": "[\"K4\"]",
+      "fields": {
+        "amount": 4,
+        "bk": "K4",
+        "region": "east"
+      },
+      "row_id": "r04",
+      "target": "east"
+    },
+    {
+      "biz_key": "[\"K5\"]",
+      "fields": {
+        "amount": 5,
+        "bk": "K5",
+        "region": "east"
+      },
+      "row_id": "r05",
+      "target": "east"
+    },
+    {
+      "biz_key": "[\"K6\"]",
+      "fields": {
+        "amount": 6,
+        "bk": "K6",
+        "region": "east"
+      },
+      "row_id": "r06",
+      "target": "east"
+    },
+    {
+      "biz_key": "[\"K7\"]",
+      "fields": {
+        "amount": 7,
+        "bk": "K7",
+        "region": "east"
+      },
+      "row_id": "r07",
+      "target": "east"
+    },
+    {
+      "biz_key": "[\"K8\"]",
+      "fields": {
+        "amount": 8,
+        "bk": "K8",
+        "region": "east"
+      },
+      "row_id": "r08",
+      "target": "east"
+    },
+    {
+      "biz_key": "[\"K9\"]",
+      "fields": {
+        "amount": 9,
+        "bk": "K9",
+        "region": "east"
+      },
+      "row_id": "r09",
+      "target": "east"
+    }
+  ],
+  "partitions": {
+    "P": {
+      "last_digest": "eaef67c563e8a9aaa00c62bfbf39d06bea84d02dbaf2c8d31b2e47fd85b7ce19",
+      "last_position": 2,
+      "start_position": 1
+    }
+  },
+  "route_version": 1,
+  "targets": {
+    "east": [
+      {
+        "amt": 0,
+        "bk_e": "K0",
+        "region": "east",
+        "row_id": "r00"
+      },
+      {
+        "amt": 1,
+        "bk_e": "K1",
+        "region": "east",
+        "row_id": "r01"
+      },
+      {
+        "amt": 2,
+        "bk_e": "K2",
+        "region": "east",
+        "row_id": "r02"
+      },
+      {
+        "amt": 3,
+        "bk_e": "K3",
+        "region": "east",
+        "row_id": "r03"
+      },
+      {
+        "amt": 4,
+        "bk_e": "K4",
+        "region": "east",
+        "row_id": "r04"
+      },
+      {
+        "amt": 5,
+        "bk_e": "K5",
+        "region": "east",
+        "row_id": "r05"
+      },
+      {
+        "amt": 6,
+        "bk_e": "K6",
+        "region": "east",
+        "row_id": "r06"
+      },
+      {
+        "amt": 7,
+        "bk_e": "K7",
+        "region": "east",
+        "row_id": "r07"
+      },
+      {
+        "amt": 8,
+        "bk_e": "K8",
+        "region": "east",
+        "row_id": "r08"
+      },
+      {
+        "amt": 9,
+        "bk_e": "K9",
+        "region": "east",
+        "row_id": "r09"
+      }
+    ],
+    "quarantine": [],
+    "west": [
+      {
+        "amount": 0,
+        "bk_w": "N0",
+        "row_id": "n00"
+      },
+      {
+        "amount": 1,
+        "bk_w": "N1",
+        "row_id": "n01"
+      },
+      {
+        "amount": 2,
+        "bk_w": "N2",
+        "row_id": "n02"
+      },
+      {
+        "amount": 3,
+        "bk_w": "N3",
+        "row_id": "n03"
+      },
+      {
+        "amount": 4,
+        "bk_w": "N4",
+        "row_id": "n04"
+      },
+      {
+        "amount": 5,
+        "bk_w": "N5",
+        "row_id": "n05"
+      },
+      {
+        "amount": 6,
+        "bk_w": "N6",
+        "row_id": "n06"
+      },
+      {
+        "amount": 7,
+        "bk_w": "N7",
+        "row_id": "n07"
+      },
+      {
+        "amount": 8,
+        "bk_w": "N8",
+        "row_id": "n08"
+      },
+      {
+        "amount": 9,
+        "bk_w": "N9",
+        "row_id": "n09"
+      },
+      {
+        "amount": 10,
+        "bk_w": "N10",
+        "row_id": "n10"
+      },
+      {
+        "amount": 11,
+        "bk_w": "N11",
+        "row_id": "n11"
+      },
+      {
+        "amount": 12,
+        "bk_w": "N12",
+        "row_id": "n12"
+      },
+      {
+        "amount": 13,
+        "bk_w": "N13",
+        "row_id": "n13"
+      },
+      {
+        "amount": 14,
+        "bk_w": "N14",
+        "row_id": "n14"
+      },
+      {
+        "amount": 15,
+        "bk_w": "N15",
+        "row_id": "n15"
+      },
+      {
+        "amount": 16,
+        "bk_w": "N16",
+        "row_id": "n16"
+      },
+      {
+        "amount": 17,
+        "bk_w": "N17",
+        "row_id": "n17"
+      },
+      {
+        "amount": 18,
+        "bk_w": "N18",
+        "row_id": "n18"
+      },
+      {
+        "amount": 19,
+        "bk_w": "N19",
+        "row_id": "n19"
+      },
+      {
+        "amount": 20,
+        "bk_w": "N20",
+        "row_id": "n20"
+      },
+      {
+        "amount": 21,
+        "bk_w": "N21",
+        "row_id": "n21"
+      },
+      {
+        "amount": 22,
+        "bk_w": "N22",
+        "row_id": "n22"
+      },
+      {
+        "amount": 23,
+        "bk_w": "N23",
+        "row_id": "n23"
+      },
+      {
+        "amount": 24,
+        "bk_w": "N24",
+        "row_id": "n24"
+      },
+      {
+        "amount": 25,
+        "bk_w": "N25",
+        "row_id": "n25"
+      },
+      {
+        "amount": 26,
+        "bk_w": "N26",
+        "row_id": "n26"
+      },
+      {
+        "amount": 27,
+        "bk_w": "N27",
+        "row_id": "n27"
+      },
+      {
+        "amount": 28,
+        "bk_w": "N28",
+        "row_id": "n28"
+      },
+      {
+        "amount": 29,
+        "bk_w": "N29",
+        "row_id": "n29"
+      },
+      {
+        "amount": 30,
+        "bk_w": "N30",
+        "row_id": "n30"
+      },
+      {
+        "amount": 31,
+        "bk_w": "N31",
+        "row_id": "n31"
+      },
+      {
+        "amount": 32,
+        "bk_w": "N32",
+        "row_id": "n32"
+      },
+      {
+        "amount": 33,
+        "bk_w": "N33",
+        "row_id": "n33"
+      },
+      {
+        "amount": 34,
+        "bk_w": "N34",
+        "row_id": "n34"
+      },
+      {
+        "amount": 35,
+        "bk_w": "N35",
+        "row_id": "n35"
+      },
+      {
+        "amount": 36,
+        "bk_w": "N36",
+        "row_id": "n36"
+      },
+      {
+        "amount": 37,
+        "bk_w": "N37",
+        "row_id": "n37"
+      },
+      {
+        "amount": 38,
+        "bk_w": "N38",
+        "row_id": "n38"
+      },
+      {
+        "amount": 39,
+        "bk_w": "N39",
+        "row_id": "n39"
+      },
+      {
+        "amount": 40,
+        "bk_w": "N40",
+        "row_id": "n40"
+      },
+      {
+        "amount": 41,
+        "bk_w": "N41",
+        "row_id": "n41"
+      },
+      {
+        "amount": 42,
+        "bk_w": "N42",
+        "row_id": "n42"
+      },
+      {
+        "amount": 43,
+        "bk_w": "N43",
+        "row_id": "n43"
+      },
+      {
+        "amount": 44,
+        "bk_w": "N44",
+        "row_id": "n44"
+      },
+      {
+        "amount": 45,
+        "bk_w": "N45",
+        "row_id": "n45"
+      },
+      {
+        "amount": 46,
+        "bk_w": "N46",
+        "row_id": "n46"
+      },
+      {
+        "amount": 47,
+        "bk_w": "N47",
+        "row_id": "n47"
+      },
+      {
+        "amount": 48,
+        "bk_w": "N48",
+        "row_id": "n48"
+      },
+      {
+        "amount": 49,
+        "bk_w": "N49",
+        "row_id": "n49"
+      }
+    ]
+  }
+}

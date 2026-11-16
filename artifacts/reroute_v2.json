@@ -1,0 +1,66 @@
+{
+  "logical": [
+    {
+      "biz_key": "[\"K1\"]",
+      "fields": {
+        "amount": 1,
+        "bk": "K1",
+        "region": "east"
+      },
+      "row_id": "A",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"K2\"]",
+      "fields": {
+        "amount": 2,
+        "bk": "K2",
+        "region": "west"
+      },
+      "row_id": "B",
+      "target": "east"
+    },
+    {
+      "biz_key": "[\"K3\"]",
+      "fields": {
+        "amount": 3,
+        "bk": "K3",
+        "region": "north"
+      },
+      "row_id": "C",
+      "target": "east"
+    }
+  ],
+  "partitions": {
+    "P": {
+      "last_digest": "4393756dd29e2ae4a37ec46893ecf4c7dc81d366e7e8afb45cabbe939c6292ea",
+      "last_position": 1,
+      "start_position": 1
+    }
+  },
+  "route_version": 2,
+  "targets": {
+    "east": [
+      {
+        "amt": 2,
+        "bk_e": "K2",
+        "region": "west",
+        "row_id": "B"
+      },
+      {
+        "amt": 3,
+        "bk_e": "K3",
+        "region": "north",
+        "row_id": "C"
+      }
+    ],
+    "quarantine": [],
+    "west": [
+      {
+        "amount": 1,
+        "bk_w": "K1",
+        "row_id": "A"
+      }
+    ]
+  }
+}

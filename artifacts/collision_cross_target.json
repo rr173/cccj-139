@@ -1,0 +1,16 @@
+{
+  "logical": [],
+  "partitions": {
+    "P": {
+      "last_digest": null,
+      "last_position": null,
+      "start_position": 1
+    }
+  },
+  "route_version": 1,
+  "targets": {
+    "east": [],
+    "quarantine": [],
+    "west": []
+  }
+}

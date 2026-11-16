@@ -1,0 +1,12 @@
+# Temporary PostgreSQL installation and database created for local tests.
+/_apt/
+/_bootstrap/
+/pgroot/
+/pgdata/
+/pgdata.log
+/pgsock/
+/venv/
+
+# Generated Python bytecode.
+__pycache__/
+*.py[cod]

@@ -1,0 +1,109 @@
+{
+  "logical": [
+    {
+      "biz_key": "[\"K2\"]",
+      "fields": {
+        "amount": -5,
+        "bk": "K2",
+        "region": "east"
+      },
+      "row_id": "E",
+      "target": "east"
+    },
+    {
+      "biz_key": null,
+      "fields": {
+        "amount": 5,
+        "bk": "K1",
+        "region": "east"
+      },
+      "row_id": "M",
+      "target": "quarantine"
+    },
+    {
+      "biz_key": null,
+      "fields": {
+        "amount": -5,
+        "bk": "K3",
+        "region": "north"
+      },
+      "row_id": "N",
+      "target": "quarantine"
+    },
+    {
+      "biz_key": null,
+      "fields": {
+        "amount": 1,
+        "bk": "K4",
+        "region": 123
+      },
+      "row_id": "T",
+      "target": "quarantine"
+    },
+    {
+      "biz_key": null,
+      "fields": {
+        "amount": -1,
+        "region": "east"
+      },
+      "row_id": "X",
+      "target": "quarantine"
+    }
+  ],
+  "partitions": {
+    "P": {
+      "last_digest": "3926677577dba0c23fc6f1b8247cea7fcc36a1c17dd117bcfe5b8d6a085fb99a",
+      "last_position": 1,
+      "start_position": 1
+    }
+  },
+  "route_version": 1,
+  "targets": {
+    "east": [
+      {
+        "amt": -5,
+        "bk_e": "K2",
+        "region": "east",
+        "row_id": "E"
+      }
+    ],
+    "quarantine": [
+      {
+        "data": {
+          "amount": 5,
+          "bk": "K1",
+          "region": "east"
+        },
+        "reason": "route_multi_match",
+        "row_id": "M"
+      },
+      {
+        "data": {
+          "amount": -5,
+          "bk": "K3",
+          "region": "north"
+        },
+        "reason": "no_matching_rule",
+        "row_id": "N"
+      },
+      {
+        "data": {
+          "amount": 1,
+          "bk": "K4",
+          "region": 123
+        },
+        "reason": "field_type_mismatch:region",
+        "row_id": "T"
+      },
+      {
+        "data": {
+          "amount": -1,
+          "region": "east"
+        },
+        "reason": "missing_key",
+        "row_id": "X"
+      }
+    ],
+    "west": []
+  }
+}

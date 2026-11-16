@@ -1,0 +1,50 @@
+{
+  "logical": [
+    {
+      "biz_key": "[\"K5\"]",
+      "fields": {
+        "amount": 6,
+        "bk": "K5",
+        "region": "west"
+      },
+      "row_id": "X",
+      "target": "west"
+    },
+    {
+      "biz_key": "[\"K4\"]",
+      "fields": {
+        "amount": 5,
+        "bk": "K4",
+        "region": "east"
+      },
+      "row_id": "Z",
+      "target": "east"
+    }
+  ],
+  "partitions": {
+    "P": {
+      "last_digest": "4abf627eb95fc08f9bc636740ee7203ac87d1294062f5e6396e94cb3b021578e",
+      "last_position": 3,
+      "start_position": 1
+    }
+  },
+  "route_version": 1,
+  "targets": {
+    "east": [
+      {
+        "amt": 5,
+        "bk_e": "K4",
+        "region": "east",
+        "row_id": "Z"
+      }
+    ],
+    "quarantine": [],
+    "west": [
+      {
+        "amount": 6,
+        "bk_w": "K5",
+        "row_id": "X"
+      }
+    ]
+  }
+}
